@@ -14,5 +14,4 @@ AWS Certified Solutions Architect – Professional · Microsoft Azure Solutions 
 
 ## Selected work
 
-- An audit-grade RAG service with an evaluation harness and a sample AI audit report is in progress and will be published here.
-- [project-genesis](https://github.com/venkatakgonela/project-genesis): an early-stage CLI for scaffolding an engineering operating context into projects (foundation only so far)
+An audit-grade RAG service with an evaluation harness and a sample AI audit report is in progress and will be published here.
