@@ -14,4 +14,5 @@ AWS Certified Solutions Architect – Professional · Microsoft Azure Solutions 
 
 ## Selected work
 
-An audit-grade RAG service with an evaluation harness and a sample AI audit report is in progress and will be published here.
+- [project-genesis](https://github.com/venkatakgonela/project-genesis): a Python CLI (7 commands, 126 tests) that scaffolds an engineering operating context (agent rules, specs, tasks, decision records) into software projects and checks it for drift
+- An audit-grade RAG service with an evaluation harness and a sample AI audit report is in progress and will be published here.
